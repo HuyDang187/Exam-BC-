@@ -1,0 +1,13 @@
+C:\Users\HuyDang\source\repos\ProductApp\bin\Debug\ProductApp.exe.config
+C:\Users\HuyDang\source\repos\ProductApp\bin\Debug\ProductApp.exe
+C:\Users\HuyDang\source\repos\ProductApp\bin\Debug\ProductApp.pdb
+C:\Users\HuyDang\source\repos\ProductApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HuyDang\source\repos\ProductApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HuyDang\source\repos\ProductApp\obj\Debug\ProductApp.csproj.AssemblyReference.cache
+C:\Users\HuyDang\source\repos\ProductApp\obj\Debug\ProductApp.Form1.resources
+C:\Users\HuyDang\source\repos\ProductApp\obj\Debug\ProductApp.Properties.Resources.resources
+C:\Users\HuyDang\source\repos\ProductApp\obj\Debug\ProductApp.csproj.GenerateResource.cache
+C:\Users\HuyDang\source\repos\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\HuyDang\source\repos\ProductApp\obj\Debug\ProductApp.csproj.Up2Date
+C:\Users\HuyDang\source\repos\ProductApp\obj\Debug\ProductApp.exe
+C:\Users\HuyDang\source\repos\ProductApp\obj\Debug\ProductApp.pdb
