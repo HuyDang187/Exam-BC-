@@ -5,3 +5,10 @@ C:\Users\HuyDang\source\repos\BankAccountManagement\obj\Debug\BankAccountManagem
 C:\Users\HuyDang\source\repos\BankAccountManagement\obj\Debug\BankAccountManagement.csproj.CoreCompileInputs.cache
 C:\Users\HuyDang\source\repos\BankAccountManagement\obj\Debug\BankAccountManagement.exe
 C:\Users\HuyDang\source\repos\BankAccountManagement\obj\Debug\BankAccountManagement.pdb
+C:\Users\HuyDang\Git\Exam-BC-\PracticePC#\BankAccountManagement\bin\Debug\BankAccountManagement.exe.config
+C:\Users\HuyDang\Git\Exam-BC-\PracticePC#\BankAccountManagement\bin\Debug\BankAccountManagement.exe
+C:\Users\HuyDang\Git\Exam-BC-\PracticePC#\BankAccountManagement\bin\Debug\BankAccountManagement.pdb
+C:\Users\HuyDang\Git\Exam-BC-\PracticePC#\BankAccountManagement\obj\Debug\BankAccountManagement.csproj.AssemblyReference.cache
+C:\Users\HuyDang\Git\Exam-BC-\PracticePC#\BankAccountManagement\obj\Debug\BankAccountManagement.csproj.CoreCompileInputs.cache
+C:\Users\HuyDang\Git\Exam-BC-\PracticePC#\BankAccountManagement\obj\Debug\BankAccountManagement.exe
+C:\Users\HuyDang\Git\Exam-BC-\PracticePC#\BankAccountManagement\obj\Debug\BankAccountManagement.pdb
