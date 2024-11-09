@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HuyDang\\source\\repos\\BankAccountManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09BD8F12-2532-4C2B-97AC-3192645DEAE2}|BankAccountManagement.csproj|c:\\users\\huydang\\source\\repos\\bankaccountmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BD8F12-2532-4C2B-97AC-3192645DEAE2}|BankAccountManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BD8F12-2532-4C2B-97AC-3192645DEAE2}|BankAccountManagement.csproj|c:\\users\\huydang\\source\\repos\\bankaccountmanagement\\normalaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BD8F12-2532-4C2B-97AC-3192645DEAE2}|BankAccountManagement.csproj|solutionrelative:normalaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BD8F12-2532-4C2B-97AC-3192645DEAE2}|BankAccountManagement.csproj|c:\\users\\huydang\\source\\repos\\bankaccountmanagement\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BD8F12-2532-4C2B-97AC-3192645DEAE2}|BankAccountManagement.csproj|solutionrelative:iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BD8F12-2532-4C2B-97AC-3192645DEAE2}|BankAccountManagement.csproj|c:\\users\\huydang\\source\\repos\\bankaccountmanagement\\exchangeaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BD8F12-2532-4C2B-97AC-3192645DEAE2}|BankAccountManagement.csproj|solutionrelative:exchangeaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExchangeAccount.cs",
+              "DocumentMoniker": "C:\\Users\\HuyDang\\source\\repos\\BankAccountManagement\\ExchangeAccount.cs",
+              "RelativeDocumentMoniker": "ExchangeAccount.cs",
+              "ToolTip": "C:\\Users\\HuyDang\\source\\repos\\BankAccountManagement\\ExchangeAccount.cs",
+              "RelativeToolTip": "ExchangeAccount.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA0wC8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T03:46:32.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NormalAccount.cs",
+              "DocumentMoniker": "C:\\Users\\HuyDang\\source\\repos\\BankAccountManagement\\NormalAccount.cs",
+              "RelativeDocumentMoniker": "NormalAccount.cs",
+              "ToolTip": "C:\\Users\\HuyDang\\source\\repos\\BankAccountManagement\\NormalAccount.cs",
+              "RelativeToolTip": "NormalAccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T03:46:00.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\HuyDang\\source\\repos\\BankAccountManagement\\IAccount.cs",
+              "RelativeDocumentMoniker": "IAccount.cs",
+              "ToolTip": "C:\\Users\\HuyDang\\source\\repos\\BankAccountManagement\\IAccount.cs",
+              "RelativeToolTip": "IAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T03:45:19.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HuyDang\\source\\repos\\BankAccountManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HuyDang\\source\\repos\\BankAccountManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T03:33:47.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
